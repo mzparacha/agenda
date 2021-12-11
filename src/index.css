@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#import_agenda > span > div {
+  /* display: hiden !important; */
+  padding: 0px !important;
+  border-style: none !important;
+}
